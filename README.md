@@ -1,8 +1,6 @@
 # Odoo Job Challenge Levels
 ![Odoo Challenge](done.png "Odoo Job Challenge")
 
-_I will not publish the results here but only the path to achieving them. If you were stuck on something, I hope this helps you move forward._ 😊
-
 ---
 
 ## 1. Input Hidden
