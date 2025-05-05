@@ -1,5 +1,5 @@
 # Odoo Job Challenge Levels
-![Odoo Challenge](done.png "Odoo Job Challenge")
+![Odoo Challenge](challenge done.png "Odoo Job Challenge")
 
 ---
 
