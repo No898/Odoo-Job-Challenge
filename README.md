@@ -1,6 +1,5 @@
 # Odoo Job Challenge Levels
-[[(https://github.com/No898/Odoo-Job-Challenge/blob/main/challenge%20done.png?raw=true](https://raw.githubusercontent.com/No898/Odoo-Job-Challenge/refs/heads/main/challenge%20done.png)
-](https://raw.githubusercontent.com/No898/Odoo-Job-Challenge/refs/heads/main/challenge%20done.png)
+https://raw.githubusercontent.com/No898/Odoo-Job-Challenge/refs/heads/main/challenge%20done.png
 ---
 
 ## 1. Input Hidden
